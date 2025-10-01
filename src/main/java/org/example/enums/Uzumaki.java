@@ -6,4 +6,8 @@ public class Uzumaki extends Ninja {
         System.out.println("Meu é " + nome + ". E eu ativei o modo Sabio"  );
     }
 
+    @Override
+    public void nomeDoNinja() {
+
+    }
 }

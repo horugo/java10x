@@ -6,6 +6,11 @@ public class Uzunaki implements NinjaInterface{
         System.out.println("Eu taquei uma Shuriken");
     }
 
+    @Override
+    public void tacarKunai() {
+
+    }
+
 
 /*    @Override
     public void nomeDoNinja() {
